@@ -1,0 +1,5 @@
+"Water sample","blue % transmitted","green % transmitted","red % transmitted"
+"+ 1 tsp milk","13/13 = 100%","14/14 = 100%","12/12 = 100%"
+"+1tsp milk + blue","10/13 = 77%","9/14 = 64%","6/12 = 50%"
+"+1tsp milk +green","9/13 = 69%","13/14 = 93%","7/12 = 58%"
+"+1tsp milk + tea","7/13 = 54%","9/14 = 69%","9/12 = 75%"
